@@ -192,7 +192,15 @@ tstart = time.time()
 ptstart = time.process_time()
 
 #### function call #####
-bucket_sort(arr)
+#selection_sort(arr)
+#insertion_sort(arr)
+#bubble_sort(arr)
+#merge_sort(arr, 0, len(arr)-1)
+#quick_sort(arr, 0, len(arr)-1)
+#heap_sort(arr)
+#counting_sort(arr)
+#radix_sort(arr)
+#bucket_sort(arr)
 ########################
 
 
